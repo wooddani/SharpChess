@@ -8,6 +8,8 @@ Find out more about SharpChess at http://SharpChess.com
 
 An excellent resource for chess programming can be found at http://chessprogramming.wikispaces.com
 
+I have a change!
+
 ---------------------------------------------------------------
 
 SharpChess Copyright (c) Peter Hughes 2011. All rights reserved.
